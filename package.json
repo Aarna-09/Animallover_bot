@@ -1,0 +1,16 @@
+{
+  "name": "animalslover-bot",
+  "version": "1.0.0",
+  "description": "AnimalsLover WhatsApp AI Sales Bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "dependencies": {
+    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "axios": "^1.6.0",
+    "dotenv": "^16.6.1",
+    "qrcode-terminal": "^0.12.0"
+  }
+}

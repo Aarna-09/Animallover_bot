@@ -1,0 +1,131 @@
+{
+  "breeds": [
+    {
+      "name": "Pomeranian",
+      "aliases": ["pomeranian", "pom", "pomerian", "pomeraniyan", "pomeranean"],
+      "type": "dog",
+      "price_min": 5000,
+      "price_max": 10000,
+      "available": true
+    },
+    {
+      "name": "Labrador",
+      "aliases": ["labrador", "lab", "labra", "labrador retriever"],
+      "type": "dog",
+      "price_min": 11000,
+      "price_max": 25000,
+      "available": true
+    },
+    {
+      "name": "German Shepherd",
+      "aliases": ["german shepherd", "german shefered", "german shephard", "gsd", "alsatian", "jerman"],
+      "type": "dog",
+      "price_min": 12000,
+      "price_max": 45000,
+      "available": true
+    },
+    {
+      "name": "Husky",
+      "aliases": ["husky", "siberian husky", "huskie", "huskies"],
+      "type": "dog",
+      "price_min": 20000,
+      "price_max": 55000,
+      "available": true
+    },
+    {
+      "name": "Beagle",
+      "aliases": ["beagle", "beagal", "bigal", "beagle dog"],
+      "type": "dog",
+      "price_min": 15000,
+      "price_max": 45000,
+      "available": true
+    },
+    {
+      "name": "Rottweiler",
+      "aliases": ["rottweiler", "rottweiller", "rotweiler", "rott", "rottie"],
+      "type": "dog",
+      "price_min": 11000,
+      "price_max": 40000,
+      "available": true
+    },
+    {
+      "name": "Shih Tzu",
+      "aliases": ["shih tzu", "shitzu", "shihtzu", "shih-tzu", "shizu", "shihzu"],
+      "type": "dog",
+      "price_min": 14000,
+      "price_max": 35000,
+      "available": true
+    },
+    {
+      "name": "Pit Bull",
+      "aliases": ["pit bull", "pitbull", "pitt bull", "pittbull", "american pit bull"],
+      "type": "dog",
+      "price_min": 13000,
+      "price_max": 35000,
+      "available": true
+    },
+    {
+      "name": "Poodle",
+      "aliases": ["poodle", "pudal", "poodal", "toy poodle", "miniature poodle"],
+      "type": "dog",
+      "price_min": 30000,
+      "price_max": 65000,
+      "available": true
+    },
+    {
+      "name": "Golden Retriever",
+      "aliases": ["golden retriever", "golden", "retriever", "gr", "golden retriver", "golden retrival"],
+      "type": "dog",
+      "price_min": 17000,
+      "price_max": 55000,
+      "available": true
+    },
+    {
+      "name": "Doberman",
+      "aliases": ["doberman", "dobermann", "doberman pinscher", "dobi", "dobey"],
+      "type": "dog",
+      "price_min": 12000,
+      "price_max": 35000,
+      "available": true
+    },
+    {
+      "name": "American Bully",
+      "aliases": ["american bully", "bully", "am bully", "american bully dog", "ameri bully"],
+      "type": "dog",
+      "price_min": 15000,
+      "price_max": 45000,
+      "available": true
+    },
+    {
+      "name": "Chow Chow",
+      "aliases": ["chow chow", "chow", "chowchow", "cho cho", "chow dog"],
+      "type": "dog",
+      "price_min": 20000,
+      "price_max": 65000,
+      "available": true
+    },
+    {
+      "name": "Pug",
+      "aliases": ["pug", "pugg", "pagi", "pagdog", "pug dog"],
+      "type": "dog",
+      "price_min": 10000,
+      "price_max": 25000,
+      "available": true
+    }
+  ],
+  "delivery": {
+    "days": "2-3",
+    "pan_india": true,
+    "puppy_age": "40-45 days",
+    "booking_amount": 2000
+  },
+  "includes": [
+    "Health checkup",
+    "Quality checkup",
+    "Vaccination/deworming if required",
+    "Free lifetime pet health and food consultancy",
+    "Delivered at Doorstep",
+    "Certificate"
+  ],
+  "price_note": "Price depends upon quality, colour, maintenance & much more factors"
+}

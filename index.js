@@ -10,9 +10,8 @@ const path = require('path');
 //  CONFIG
 // ============================================================
 const GROQ_API_KEY = process.env.GROQ_API_KEY;
-const EXECUTIVE_NUMBER = process.env.EXECUTIVE_NUMBER || '9178086 01752';
+const EXECUTIVE_NUMBER =(process.env.EXECUTIVE_NUMBER || '917808601752').replace(/\D/g, '');
 const MEMORY_FILE = 'customer_memory.json';
-
 const delay = (ms) => new Promise(r => setTimeout(r, ms));
 
 // ============================================================

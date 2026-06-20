@@ -4,13 +4,14 @@
   "description": "AnimalsLover WhatsApp AI Sales Bot",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js",
-    "dev": "nodemon index.js"
+    "start": "node index.js"
   },
   "dependencies": {
-    "@whiskeysockets/baileys": "^7.0.0-rc13",
+    "@whiskeysockets/baileys": "^7.0.0-rc.13",
     "axios": "^1.6.0",
-    "dotenv": "^16.6.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.19.2",
+    "qrcode": "^1.5.3",
     "qrcode-terminal": "^0.12.0"
   }
 }
